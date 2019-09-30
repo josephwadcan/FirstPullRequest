@@ -15,60 +15,61 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 # Spring 2018
 
 - [X] Wadcan, Joe :rocket::rocket::rocket: 
-- [ ] Bernad, Gonzalo
-- [ ] Blair, Nicholas
-- [ ] Braszkiewicz, Anna
-- [ ] Butrich, Diego
-- [ ] Cademartori, Helen
-- [ ] De Arbelaiz, Belu
-- [ ] Dobrinov, Sergey
-- [ ] Efstathiou, Andrew
-- [ ] Eidelman, Tal
-- [ ] Errazuriz, Ignacio
-- [ ] Firestone, Nick
+- [X] King :crown:, Anthony :rocket:, your friendly neighborhood GSI :wave:
+- [X] Bernad, Gonzalo :rocket:
+- [X] Blair, Nicholas :rocket::sunglasses::rocket:
+- [X] Braszkiewicz, Anna :pizza:
+- [X] Butrich, Diego :sunglasses:
+- [X] Cademartori, Helen
+- [X] De Arbelaiz, Belu:rocket::rocket::pizza
+- [X] Dobrinov, Sergey
+- [X] Efstathiou, Andrew :sunglasses::hankey::pizza:
+- [X] Eidelman, Tal :pineapple:
+- [X] Errazuriz, Ignacio
+- [X] Firestone, Nick :rocket::rocket::rocket:
 - [ ] Friedman, Ilya
-- [ ] Garrett, Zach
-- [ ] Gerngross, Gloria
-- [ ] Gonzalez-Garilleti, Chema
-- [ ] Goodacre, Monal
-- [ ] Gums, Erin
-- [ ] Gutierrez, Johnny
-- [ ] Hines, Matt
+- [X] Garrett, Zach :hankey:
+- [X] Gerngross, Gloria
+- [X] Gonzalez-Garilleti, Chema :hand:
+- [X] Goodacre, Monal :poop: :collision: :boom: :sparkles: :trollface:
+- [X] Gums, Erin :palm_tree::palm_tree::palm_tree:
+- [X] Gutierrez, Johnny :boom::boom::boom:
+- [X] Hines, Matt
 - [ ] Hornbeck, Chris
-- [ ] Ibarra Lopez, Rodrigo
-- [ ] Illes, Cameron
-- [ ] Kahiri, Ben
-- [ ] Karaci, Begum
-- [ ] Khurana, Manav
-- [ ] King, Ryan
-- [ ] Lannquist, Ashley
-- [ ] Lee, Gene
-- [ ] Leung, Connie
-- [ ] Li, Bo
-- [ ] Locatelli, Federico
-- [ ] Luck, Claudia
-- [ ] Macuco, Greg
-- [ ] Mao, Biyu
-- [ ] Mitteldorf, Alex
-- [ ] Murphy, Kelly
-- [ ] Okorn, Atim
-- [ ] Orard, Antoine
-- [ ] Ortegon Baqueiro, Roberto
-- [ ] Petit, Yvener
-- [ ] Polsky, Noah
-- [ ] Porter, Annie
-- [ ] Rodriguez Gonzalez Guerra, Leon
-- [ ] Romaneski, Dan
-- [ ] Ruffier D'Epenoux, Edouard
-- [ ] Schoenack, Ludwig
-- [ ] Sembayev, Azat
-- [ ] Seo, Johna
-- [ ] Stoner, Nick
-- [ ] Swain, Tyler
-- [ ] Swanson, Catherine
-- [ ] Tamer, Sandra
-- [ ] Tully, John
-- [ ] Turbanov, Alexander
-- [ ] Vessa, James
-- [ ] Warren, Alyssa
-- [ ] Webb, Jeffrey
+- [X] Ibarra Lopez, Rodrigo ;) :rocket:
+- [X] Illes, Cameron :smiley:
+- [X] Kahiri, Ben :sun: :palm: :sun: :palm:
+- [X] Karaci, Begum :boom::rocket::sparkles: 
+- [x] Khurana, Manav
+- [X] King, Ryan :rocket:
+- [X] Lannquist, Ashley :pinneaple::boom:
+- [X] Lee, Gene
+- [X] Leung, Connie
+- [X] Li, Bo
+- [X] Locatelli, Federico :sunglasses::sunglasses:
+- [X] Luck, Claudia :sparkles:
+- [X] Macuco, Greg
+- [X] Mao, Biyu
+- [X] Mitteldorf, Alex :sunrise_over_mountains:
+- [X] Murphy, Kelly :rocket::champagne::rocket:
+- [X] Okorn, Atim :rocket:
+- [X] Orard, Antoine
+- [X] Ortegon Baqueiro, Roberto :rocket:
+- [X] Petit, Yvener
+- [X] Polsky, Noah :rocket:
+- [X] Porter, Annie :smiley:
+- [X] Rodriguez Gonzalez Guerra, Leon :sunglasses::hankey::pizza::rocket::rocket: 
+- [X] Romaneski, Dan :shipit::thought_balloon::moneybag:
+- [X] Ruffier D'Epenoux, Edouard
+- [X] Schoenack, Ludwig :rocket:
+- [X] Sembayev, Azat :rocket:
+- [X] Seo, Johna
+- [X] Stoner, Nick :sparkler::bomb:
+- [X] Swain, Tyler :rocket:
+- [X] Swanson, Catherine
+- [X] Tamer, Sandra :raising_hand::heavy_check_mark:
+- [X] Tully, John :rocket::rocket:
+- [X] Turbanov, Alexander
+- [X] Vessa, James
+- [X] Warren, Alyssa :rocket:
+- [X] Webb, Jeffrey :scream: :scream: :scream:
